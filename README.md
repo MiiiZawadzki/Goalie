@@ -1,2 +1,2 @@
 # Goalie
-Prosta gra napisana w Pythonie wykorzystująca bibliotekę PyGame
+Simple game made in Python using PyGame library
